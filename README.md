@@ -19,12 +19,9 @@ A secure and encrypted chat application that uses RSA encryption to protect your
 To install and run it, follow these steps:
 
 1. Clone this repository to your local machine.
-     cd pyth0n_ch4tr00m_3ncrypt3d
 2. Run server.py
-     python server.py <your IP> <your port>
 3. Run client.py
-      python client.py <IP> <port>
-
+4. Enjoy!
 
    
 
