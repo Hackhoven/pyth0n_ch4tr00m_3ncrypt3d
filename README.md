@@ -12,7 +12,7 @@ A secure and encrypted chat application that uses RSA encryption to protect your
 
 - **Simple Interface**: A straightforward and user-friendly interface makes chatting a breeze.
 
-- **Contribution**: You can contribute to the project by following the guidelines in our [Contribution section](#contributing).
+- **Contribution**: You can contribute to the project by following the guidelines.
 
 ## Installation
 
